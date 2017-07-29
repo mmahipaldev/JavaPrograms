@@ -1,2 +1,2 @@
 # JavaPrograms
-Prsctise programs
+Practise programs
